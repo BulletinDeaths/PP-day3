@@ -1,0 +1,72 @@
+[
+  {
+    "track_name": "Песня о дружбе",
+    "artist": "Группа Друзья",
+    "genre": "Поп",
+    "duration_minutes": 3.5,
+    "listens": 45
+  },
+  {
+    "track_name": "Танцуй до утра",
+    "artist": "DJ Весельчак",
+    "genre": "Электронная",
+    "duration_minutes": 4.1,
+    "listens": 120
+  },
+  {
+    "track_name": "Лесная сказка",
+    "artist": "Ансамбль Березка",
+    "genre": "Фолк",
+    "duration_minutes": 5.0,
+    "listens": 30
+  },
+  {
+    "track_name": "Городские огни",
+    "artist": "Иван Дорн",
+    "genre": "Поп",
+    "duration_minutes": 3.2,
+    "listens": 80
+  },
+  {
+    "track_name": "Ночной драйв",
+    "artist": "The Midnight Riders",
+    "genre": "Рок",
+    "duration_minutes": 4.8,
+    "listens": 65
+  },
+  {
+    "track_name": "Солнечный берег",
+    "artist": "Sunny Crew",
+    "genre": "Поп",
+    "duration_minutes": 3.9,
+    "listens": 95
+  },
+  {
+    "track_name": "Киберпространство",
+    "artist": "Neon Pulse",
+    "genre": "Электронная",
+    "duration_minutes": 5.5,
+    "listens": 150
+  },
+  {
+    "track_name": "Ветер перемен",
+    "artist": "Ансамбль Березка",
+    "genre": "Фолк",
+    "duration_minutes": 4.0,
+    "listens": 40
+  },
+  {
+    "track_name": "Гром и молния",
+    "artist": "The Midnight Riders",
+    "genre": "Рок",
+    "duration_minutes": 4.5,
+    "listens": 70
+  },
+  {
+    "track_name": "Рассветный блюз",
+    "artist": "Blues Brothers",
+    "genre": "Блюз",
+    "duration_minutes": 6.0,
+    "listens": 25
+  }
+]
